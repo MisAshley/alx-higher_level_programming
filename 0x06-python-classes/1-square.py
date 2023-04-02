@@ -4,7 +4,7 @@
 
 
 class Square:
-        '''Creates  Square type'''
+        '''Creates Square type'''
 
         def __init__(self, size):
             '''Initializes Square with size'''
